@@ -14,6 +14,11 @@ Os dados são processados de forma assíncrona através de uma infraestrutura cl
 
 ---
 
+## Clonar Projeto
+```bash
+git clone --recursive https://github.com/LuisCarvalhoGit/ApexGrid.git
+```
+
 ## 📁 Estrutura do Ecossistema (Repositórios)
 
 O código-fonte deste ecossistema está modularizado em dois repositórios independentes de forma a respeitar a separação de conceitos (*Separation of Concerns*). **Clica nos links abaixo para aceder ao código e documentação técnica de cada componente:**
