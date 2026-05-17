@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/LuisCarvalhoGit/ApexGrid-API.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/LuisCarvalhoGit/ApexGrid-Mobile.git
